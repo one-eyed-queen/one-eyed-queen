@@ -19,7 +19,7 @@
 
 <br>
 
-`// the-lust`
+`// one-eyed-queen`
 
 <br>
 
@@ -27,9 +27,9 @@
 
 <br><br>
 
-<a href="https://discord.com/users/nanami.sai"><img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" valign="middle"><img src="https://img.shields.io/badge/nanami.sai-555555?style=for-the-badge&logoColor=white" valign="middle"></a>
+<a href="https://discord.com/users/one.eyed.queen"><img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" valign="middle"><img src="https://img.shields.io/badge/one.eyed.queen-555555?style=for-the-badge&logoColor=white" valign="middle"></a>
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=the-lust&color=cc2200&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=one-eyed-queen&color=cc2200&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -54,12 +54,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=the-lust&show_icons=true&theme=transparent&hide_border=true&title_color=cc2200&text_color=8b949e&icon_color=cc2200&ring_color=cc2200&count_private=true&include_all_commits=true" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api?username=one-eyed-queen&show_icons=true&theme=transparent&hide_border=true&title_color=cc2200&text_color=8b949e&icon_color=cc2200&ring_color=cc2200&count_private=true&include_all_commits=true" alt="stats">
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=the-lust&theme=transparent&hide_border=true&ring=cc2200&fire=cc2200&currStreakLabel=cc2200&sideLabels=8b949e&dates=8b949e&stroke=0d1117" alt="streak">
+<img src="https://streak-stats.demolab.com?user=one-eyed-queen&theme=transparent&hide_border=true&ring=cc2200&fire=cc2200&currStreakLabel=cc2200&sideLabels=8b949e&dates=8b949e&stroke=0d1117" alt="streak">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lust&layout=compact&theme=transparent&hide_border=true&title_color=cc2200&text_color=8b949e&langs_count=20&card_width=500&count_private=true&include_all_commits=true" alt="langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=one-eyed-queen&layout=compact&theme=transparent&hide_border=true&title_color=cc2200&text_color=8b949e&langs_count=20&card_width=500&count_private=true&include_all_commits=true" alt="langs">
 
 </div>
