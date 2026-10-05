@@ -27,7 +27,7 @@
 
 <br><br>
 
-<a href="https://discord.com/users/one.eyed.queen"><img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" valign="middle"><img src="https://img.shields.io/badge/one.eyed.queen-555555?style=for-the-badge&logoColor=white" valign="middle"></a>
+<a href="https://discord.com/users/1243925000369733806"><img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" valign="middle"><img src="https://img.shields.io/badge/tsaritsa.of.snezhnaya-555555?style=for-the-badge&logoColor=white" valign="middle"></a>
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=one-eyed-queen&color=cc2200&style=for-the-badge&label=PROFILE+VIEWS)
 
